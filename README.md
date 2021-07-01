@@ -2,7 +2,7 @@
 
 I am a full stack software engineer currently seeking full-time in-person opportunities in the greater New York area and full-time remote positions 
 in other locations. In addition to my technical knowledge, I have extensive experience in client relations and retention and love to collaborate on 
-projects, while retaining a 'client first' approach.
+projects, while maintaining a 'client first' approach.
 
 Proficient: Javascript, Node.js, Express, React, React Redux, Git, HTML, CSS, Material-UI, PostgreSQL, Sequelize, Postman, Pair programming
 
